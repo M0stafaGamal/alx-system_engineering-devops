@@ -15,4 +15,4 @@
 | `10-no_more_js` | Delete all files in the same dierectory or subdirectories that have the .js extension |
 | `11-directories` | count the number of directories in all subdirectories |
 | `12-newest_files` | list the 10 most recent files and each file in a line |
-| `13-unique`  | from `list` file this script sort the content of the file and print only the unique one
+| `13-unique`  | script sort the content of a list and print only the unique one

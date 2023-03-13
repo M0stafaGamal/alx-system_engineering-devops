@@ -16,6 +16,7 @@
 | `11-directories` | count the number of directories in all subdirectories |
 | `12-newest_files` | list the 10 most recent files and each file in a line |
 | `13-unique`  | script sort the content of a list and print only the unique one |
-| `14-findthatword` | find lines that have the word root in it in file `/etc/passwd` |
-| `15-countthatword` | count number of lines in `/etc/passwd` that have the word bin |
-| `16-whatsnext` | get three lines after lines that have root word
+| `14-findthatword` | find lines that have the word `root` in it in file `/etc/passwd` |
+| `15-countthatword` | count number of lines in `/etc/passwd` that have the word `bin` |
+| `16-whatsnext` | get three lines after lines that have root word |
+| `17-hidethisword` | print all lines that dosent have the word `bin` in it |

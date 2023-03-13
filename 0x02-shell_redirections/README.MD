@@ -16,3 +16,4 @@
 | `11-directories` | count the number of directories in all subdirectories |
 | `12-newest_files` | list the 10 most recent files and each file in a line |
 | `13-unique`  | script sort the content of a list and print only the unique one
+| `14-findthatword` | find lines that have the word root in it in file `/etc/passwd`

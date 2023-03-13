@@ -18,3 +18,4 @@
 | `13-unique`  | script sort the content of a list and print only the unique one |
 | `14-findthatword` | find lines that have the word root in it in file `/etc/passwd` |
 | `15-countthatword` | count number of lines in `/etc/passwd` that have the word bin |
+| `16-whatsnext` | get three lines after lines that have root word

@@ -5,3 +5,5 @@
 1-confused_smiley : printing "(Ôo)' so we need to scape " character to print it 
 
 2-hellofile : showing content of /etc/passwd file 
+
+3-twofiles : showing content of /etc/passwd file and /etc/hosts/file

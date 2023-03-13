@@ -20,3 +20,4 @@
 | `15-countthatword` | count number of lines in `/etc/passwd` that have the word `bin` |
 | `16-whatsnext` | get three lines after lines that have root word |
 | `17-hidethisword` | print all lines that dosent have the word `bin` in it |
+| `18-letteronly` | get all lines that only starts with letters

@@ -15,3 +15,5 @@
 6-third_line : showing the third line of iacta file 
 
 7-file : making a file with paranthese and qoutes
+
+8-cwd_state : saving ls -la command output in file ls_cwd_content

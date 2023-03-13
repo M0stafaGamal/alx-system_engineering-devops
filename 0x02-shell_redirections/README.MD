@@ -23,4 +23,5 @@
 | `18-letteronly` | get all lines that only starts with letters |
 | `19-AZ` | replace all "A" and "c" to "Z" and "e" respectivily from giving input | 
 | `20-hiago` | remove all "C" and "c" from input string |
-| `21-reverse` | reverse input string
+| `21-reverse` | reverse input string |
+| `22-users_and_homes` | print  all users and their home directory sortd  from `/etc/passwd` 

@@ -22,4 +22,5 @@
 | `17-hidethisword` | print all lines that dosent have the word `bin` in it |
 | `18-letteronly` | get all lines that only starts with letters |
 | `19-AZ` | replace all "A" and "c" to "Z" and "e" respectivily from giving input | 
-| `20-hiago` | remove all "C" and "c" from input string
+| `20-hiago` | remove all "C" and "c" from input string |
+| `21-reverse` | reverse input string

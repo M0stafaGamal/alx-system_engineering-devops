@@ -12,4 +12,6 @@
 | `7-file` | making a file with paranthese and qoutes and differint sympols |
 | `8-cwd_state` | saving `ls -la` command output in file `ls_cwd_content` |
 | `9-duplicate_last_line` | duplicate the last line of file `iacta`|
-| `11-directories` | count the number of directories in all subdirectories 
+| `10-no_more_js` | Delete all files in the same dierectory or subdirectories that have the .js extension |
+| `11-directories` | count the number of directories in all subdirectories |
+| `12-newest_files` | list the 10 most recent files and each file in a line |

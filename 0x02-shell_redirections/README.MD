@@ -11,3 +11,7 @@
 4-lastlines : showing last 10 lines in /etc/passwd file
 
 5-firstlines : showing first 10 lines of /etc/passwd file
+
+6-third_line : showing the third line of iacta file 
+
+7-file : making a file with paranthese and qoutes
